@@ -1,0 +1,9 @@
+Model name,English,Czech,Ukrainian,Param count (mil),Mean accuracy,Model type,Efficienty
+bert-base-multilingual-cased,0.714,0.632,0.562,178,0.636,MaskedLM,35.73033707865169
+xlm-roberta-large,0.599,0.573,0.554,560,0.575,MaskedLM,10.267857142857142
+xlm-roberta-base,0.61,0.57,0.536,278,0.572,MaskedLM,20.575539568345324
+mt5-small,0.517,0.461,0.475,300,0.484,text2text,16.133333333333333
+mt5-large,0.575,0.484,0.502,1230,0.52,text2text,4.227642276422764
+stablelm-3b-4e1t,0.848,0.713,0.632,2795,0.731,CausalLM,2.6153846153846154
+stablelm-zephyr-3b,0.743,0.571,0.521,2795,0.612,CausalLM,2.1896243291592126
+RedPajama-INCITE-Base-3B-v1,0.822,0.684,0.605,2776,0.704,CausalLM,2.536023054755043

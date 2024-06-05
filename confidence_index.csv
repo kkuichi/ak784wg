@@ -1,0 +1,9 @@
+Model name,English,Czech,Ukrainian,Model type,Params count (mil)
+bert-base-multilingual-cased,15911,2509,1440,MaskedLM,178
+xlm-roberta-large,35580,58335,52950,MaskedLM,560
+xlm-roberta-base,20401,11904,25385,MaskedLM,278
+mt5-small,1740,5140,3622,text2text,300
+mt5-large,1997,10427,9913,text2text,1230
+stablelm-3b-4e1t,56429,77932,6022,CausalLM,2795
+stablelm-zephyr-3b,170648,36613,2108,CausalLM,2795
+RedPajama-INCITE-Base-3B-v1,40689,53117,5287,CausalLM,2776
